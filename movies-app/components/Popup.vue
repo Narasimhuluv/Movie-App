@@ -134,5 +134,14 @@ article {
 }
 .details__movie {
   padding: 1rem 0.5rem;
+  margin: 0 1rem;
+}
+button {
+  background: none;
+  border: none;
+  border: 1px solid gray;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  border-radius: 5px;
 }
 </style>
